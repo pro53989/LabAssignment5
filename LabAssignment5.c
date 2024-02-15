@@ -3,7 +3,7 @@
 
 typedef struct node {
 	char letter;
-	struct node* next;
+	struct node* next; 
 } node;
 
 // Returns number of nodes in the linkedList.
